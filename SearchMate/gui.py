@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk, PhotoImage
 import customtkinter as ctk
 
-# Predefined mapping for extensions to categorizث
+# Predefined mapping for extensions to categorize
 EXTENSION_MAPPING = {
     # Documents
     ".docx": "Documents",
